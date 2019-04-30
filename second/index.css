@@ -1,0 +1,64 @@
+.top {
+    height: 10rem;
+    width: 90%;
+    margin: 3rem;
+    border: black 4px solid;
+    display: flex;
+}
+
+.purple {
+    height: 60%;
+    width: 2rem;
+    background-color: purple;
+    margin: 3rem 3rem 1rem 1rem;
+    
+}
+
+.green {
+    height: 80%;
+    width: 20rem;
+    background-color: green;
+    align-self: center;
+    margin-right: 3rem;
+}
+
+.blue {
+    height: 85%;
+    width: 10rem;
+    background-color: aqua;
+    border-radius: 50%;
+    margin-top: .7rem;
+}
+
+.middle {
+    height: 15rem;
+    width: 90%;
+    margin: 3rem;
+    border: black 4px dotted;
+}
+
+.bgTan {
+    height: 60%;
+    width: 80%;
+    background-color: lemonchiffon;
+    margin: 3rem auto;
+    box-shadow: 0 1rem 1rem 0 black;
+}
+
+.hello {
+    height: 20rem;
+    width: 50%;
+    border: gray 1px solid;
+    margin: 25px auto; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 .5rem .5rem 0 gray;
+}
+
+.textOne {
+    color: navy;
+    
+}

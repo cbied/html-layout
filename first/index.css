@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(141, 141, 141);
+}
+
+.header {
+    background-color: rgb(92, 92, 92);
+    height: 8rem;
+}
+
+.main {
+    background-color: white;
+    margin: 0 auto;
+    width: 75%;
+    height: 70%;
+}
+
+.footer {
+    background-color: black;
+    margin: 0 auto;
+    width: 75%;
+    height:70%
+}
